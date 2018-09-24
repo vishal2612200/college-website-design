@@ -1,0 +1,18 @@
+			<footer>
+				<div class="container">
+					<a href="index.html" class="logo"><img src="images/logo/logo.png" alt="Logo"></a>
+
+					<ul>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-skype" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-flickr" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+						<li><a href="#" class="tran3s round-border"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
+					</ul>
+					<p>Copyright 2016-2017 <a href="https://themeforest.net/user/srthemes/portfolio" class="tran3s p-color" target="_blank">SRThemes</a> All rights reserved.</p>
+				</div>
+			</footer>
+
