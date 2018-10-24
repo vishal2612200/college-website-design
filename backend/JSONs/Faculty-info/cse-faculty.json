@@ -1,0 +1,101 @@
+﻿[
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Sunita Kumari",
+    "designation": " HOD (CSE)",
+    "qualification": "M.Tech.(MDU Rohtak) <br> B.Tech.(MDU Rohtak) NET (2009)",
+    "specialization": "Operating Systems, Databases, Bigdata and Machine learning",
+    "email": "<a href='mailto:sunitakumari@gbpec.edu.in' target='_blank'>sunitakumari@gbpec.edu.in</a>",
+    "profile": "<a href=''assets/images/Faculty_Profile/CSE/Sunita Kumari.pdf'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Mr.Amit Khaparde",
+    "designation": "Assistant Professor",
+    "qualification": "Ph. D. (RTM Nagpur) <br> M.Tech.(VNIT Nagpur) <br> B.E.(RTM Nagpur)",
+    "specialization": "Soft Computing",
+    "email": "<a href='mailto:khaparde.amit@gmail.com' target='_blank'>khaparde.amit@gmail.com </a>",
+    "profile": "<a href='assets/images/Faculty_Profile/CSE/AMIT_KHAPARDE_CSE.pdf'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Dr. Anu Saini",
+    "designation": "Assistant Professor",
+    "qualification": "Ph. D. (JNU)<br>M.Tech(MDU Rohtak)<br> B.Tech(MDU Rohtak)",
+    "specialization": "Web Services, D.B.M.S, Software Testing",
+    "email": "<a href='mailto:anuanu16@gmail.com' target='_blank'>anuanu16@gmail.com </a>",
+    "profile": "<a href='#'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Jatin Verma",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech.(GGSIPU)<br> B.Tech.(MDU Rohtak)",
+    "specialization": "Computer Networks, Cryptography",
+    "email": "<a href='mailto:vjatin83@gmail.com' target='_blank'>vjatin83@gmail.com</a>",
+    "profile": "<a href='assets/images/Faculty_Profile/CSE/jatin_verma_cse.pdf'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Ms. Jyoti Tripathi",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech (Banasthali Vidyapeeth) <br>B.Tech (B R Ambedkar University)",
+    "specialization": "Natural Language Processing and Information Retrieval",
+    "email": "<a href='mailto:loginjyoti@gmail.com' target='_blank'>loginjyoti@gmail.com </a>",
+    "profile": "<a href='#'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Mr. Kundan Kumar Chandan",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech.(Jamia Hamdard)<br> B.Tech.(GGSIPU Delhi)",
+    "specialization": "Algorithms and Theoratical Computer Science",
+    "email": "<a href='mailto:kundankrchandan@gmail.co' target='_blank'>kundankrchandan@gmail.co </a>",
+    "profile": "<a href='assets/images/Faculty_Profile/CSE/Kundan_Chandan_CSE.pdf'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Dr. Mamta Mittal",
+    "designation": "Assistant Professor",
+    "qualification": "Ph.D.(Thapar University)<br>M.Tech.(MDU University)<br> B.Tech.(Kurukshetra University)",
+    "specialization": "Data Mining, DBMS, Big Data and Machine Learning",
+    "email": "<a href='mailto:mittalmamta@rediffmail.com' target='_blank'>mittalmamta@rediffmail.com </a>",
+    "profile": "<a href='assets/images/Faculty_Profile/CSE/Dr_Mamta_Mittal_CSE.pdf'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Dr. Manisha Manjul",
+    "designation": "Assistant Professor",
+    "qualification": "Ph. D. (Gautam Buddha University)<br>M.Tech.(NIT Jalandhar)<br> B.Tech.(KNIT Sultanpur)",
+    "specialization": "COMPUTER NETWORK",
+    "email": "<a href='mailto:bhavikamanisha@gmail.com' target='_blank'>bhavikamanisha@gmail.com </a>",
+    "profile": "<a href='#'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Mr. Manjeet Singh Pangtey",
+    "designation": "Assistant Professor",
+    "qualification": "M.Tech.(IIT Bombay)<br> B.Tech.(G. B. Pant University)",
+    "specialization": "Web Engineering, Software Engineering, Data Structures",
+    "email": "<a href='mailto:mspangtey@gbpec.edu.in' target='_blank'>mspangtey@gbpec.edu.in </a>",
+    "profile": "<a href='assets/images/Faculty_Profile/CSE/Manjeet_Pangtey_CSE.pdf'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Ms. Sunita Tiwari",
+    "designation": "Assistant Professor",
+    "qualification": "Ph. D.(IIT Delhi) <br>M. Tech. (IIT Delhi)<br>MBA(DAVV Indore) <br> B. E. (RGPV Bhopal)",
+    "specialization": "Recommender Systems, Location Based Services, Data Mining",
+    "email": "<a href='mailto:sunita.tiwari@gbpec.edu.in' target='_blank'>sunita.tiwari@gbpec.edu.in</a>",
+    "profile": "<a href='assets/images/Faculty_Profile/CSE/Sunita_Tiwari_CSE.pdf'>See Profile</a>"
+  },
+  {
+    "image": "/images/team/2.jpg",
+    "name": "Mr.Sushil Kumar",
+    "designation": "Assistant Professor",
+    "qualification": "Ph. D. (Thapar University)<br>M.E. (Thapar University)<br> B.Tech (UPTU)",
+    "specialization": "Vehicular Adhoc Networks, Sensor Networks",
+    "email": "<a href='mailto:sushilyadav.thapar@gmail.com' target='_blank'>sushilyadav.thapar@gmail.com </a>",
+    "profile": "<a href='assets/images/Faculty_Profile/CSE/sushil_kumar_cse.pdf'>See Profile</a>"
+  }
+]
