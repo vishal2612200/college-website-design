@@ -1,0 +1,58 @@
+[
+    {
+        "name": "index",
+        "date": "Sat Oct 20 20:33:23 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "notices",
+        "date": "Sat Oct 20 20:33:23 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "JSONs",
+        "date": "Sat Oct 20 20:33:23 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "notices.json",
+        "date": "Tue Oct  2 18:36:13 2018"
+    },
+    {
+        "name": "Advt_state.jpg",
+        "date": "Sat Sep 29 13:19:15 2018"
+    },
+    {
+        "name": "Screenshot_2018-09-28_19-38-06.png",
+        "date": "Tue Oct  2 18:11:57 2018"
+    },
+    {
+        "name": "Sports Notice.jpg",
+        "date": "Sat Sep 29 13:16:10 2018"
+    },
+    {
+        "name": "Screenshot_2018-09-28_20-02-59.png",
+        "date": "Tue Oct  2 18:33:26 2018"
+    },
+    {
+        "name": "Faculty-info",
+        "date": "Sat Oct 20 20:33:23 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "data.json",
+        "date": "Tue Oct  2 18:33:26 2018"
+    },
+    {
+        "name": "mae_faculty.json",
+        "date": "Sat Oct 13 14:26:41 2018"
+    },
+    {
+        "name": "cse-faculty.json",
+        "date": "Sat Oct 20 21:15:28 2018"
+    },
+    {
+        "name": "ece_faculty.json",
+        "date": "Sat Oct 13 14:25:38 2018"
+    }
+]
