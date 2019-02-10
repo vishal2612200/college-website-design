@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<!-- For IE -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- For Resposive Device -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Societies</title>
+
+		<!-- Favicon -->
+		<link rel="icon" type="image/png" sizes="56x56" href="http://www.gbpec.edu.in/assets/images/logo_new.png">
+
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<!-- Main style sheet -->
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<!-- responsive style sheet -->
+		<link rel="stylesheet" type="text/css" href="css/responsive.css">
+ <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<!-- Fix Internet Explorer ______________________________________-->
+
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<script src="vendor/html5shiv.js"></script>
+			<script src="vendor/respond.js"></script>
+		<![endif]-->
+			
+	</head>
+
+<style>
+	@media (max-width: 650px){
+		.logo{
+			width:60px;
+			height:50px;
+		}
+	}
+	
+	</style>
+
+
+
+	<body>
+		<div class="main-page-wrapper">
+
+
+
+			<!-- 
+			=============================================
+				Theme Header
+			============================================== 
+			-->
+			<header class="theme-main-header">
+				<div class="container">
+					<a href="index.html" class="logo float-left tran4s"><img src="http://www.gbpec.edu.in/assets/images/logo_new.png" alt="Logo"></a>
+					
+					<!-- ========================= Theme Feature Page Menu ======================= -->
+					<nav class="navbar float-right theme-main-menu">
+					   <!-- Brand and toggle get grouped for better mobile display -->
+					   <div class="navbar-header">
+					     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+					       <span class="sr-only">Toggle navigation</span>
+					       Menu
+					       <i class="fa fa-bars" aria-hidden="true"></i>
+					     </button>
+					   </div>
+					   <!-- Collect the nav links, forms, and other content for toggling -->
+					   <div class="collapse navbar-collapse" id="navbar-collapse-1">
+					     <ul class="nav navbar-nav">
+					       	<li ><a href="index.html">HOME</a></li>
+							<li><a href="about.html">ABOUT</a></li>
+							<li><a href="notice.html">NOTICES</a></li>
+					<!--		<li><a href="index.html#project-section">SOCI</a></li>-->
+							<li><a href="agenda/index.html">EVENTS</a>
+							<ul class="sub-menu">
+									<li><a href="events.html" class="tran3s">old</a></li>
+							</ul>
+							</li>
+							<li><a href="projects.html">PROJECTS</a></li>
+							<li  class="dropdown-holder active"><a href="#">STUDENTS CORNER</a>
+								<ul class="sub-menu">
+									<li><a href="campus.html" class="tran3s">Campus</a></li>
+									<li><a href="gallery.html" class="tran3s">Activities</a></li>
+									<li><a href="#" class="tran3s">Societies</a></li>
+								</ul>
+							
+							
+							
+							</li>
+							<li><a href="placements.html">PLACEMENTS</a></li>
+							<li class="dropdown-holder"><a href="academics.html">ACADEMICS</a>
+								<ul class="sub-menu">
+										<li><a href="CSEteachers.html" class="tran3s">CSE Faculty</a></li>
+										<li><a href="#" class="tran3s">ECE Faculty</a></li>
+										<li><a href="#" class="tran3s">MAE Faculty</a></li>
+									</ul>
+								</li>
+						
+							<li><a href="contact.html">CONTACT</a></li>
+					     </ul>
+					   </div><!-- /.navbar-collapse -->
+					</nav> <!-- /.theme-feature-menu -->
+				</div>
+			</header> <!-- /.theme-main-header -->
+
+
+			<!--
+			=====================================================
+				Theme Inner page Banner
+			=====================================================
+			-->
+			<section class="inner-page-banner">
+				<div class="opacity">
+					<div class="container">
+						<h2>G B PANT ENGINEERING COLLEGE</h2>
+						<ul>
+							<li><a href="index.html">ABOUT US</a></li>
+							<li>:affiliated by IPU</li>
+						</ul>
+					</div> <!-- /.container -->
+				</div> <!-- /.opacity -->
+			</section> <!-- /.inner-page-banner -->
+            
+            
+
+
+
+
+
+
+			<!--
+			=====================================================
+				Service Section
+			=====================================================
+			-->
+			<div id="service-section">
+				<div class="container">
+					<div class="theme-title">
+						<h2>Our Societies</h2>
+						<p> Societies are that platform which help you to improve yourself to reach height in your career at unique level.They make common student stand out of mob to be differnt student from other</p>
+
+                         <p> Join Societies to know about your interest other than studies also.</p>				
+	                        </div> <!-- /.theme-title -->
+
+					<div class="row">
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><!--<i class="fa fa-paint-brush" aria-hidden="true"></i>-->
+										<i class="fa fa-laptop" aria-hidden="true"></i>
+									</div>
+									<h6><a href="#" class="tran3s">Alphabit</a></h6>
+								</div>
+								<p> This society is created to create environment of coding and IT projects in college area.This society is developed to guide newbie with different experience of journey in coding world.  </p>
+								<p><b>Motive :</b> Developing Brains of new Things.</p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-ticket" aria-hidden="true"></i>
+										<!--<i class="fa fa-camera" aria-hidden="true"></i>--></div>
+									<h6><a href="#" class="tran3s">Buniyaad</a></h6>
+								</div>
+								<p>Buniyaad- The Dramatics society of G.B.Pant Engineering College is formed to attract talents from the institute founded in 2013. </p>
+							<p><b>President:</b> Mr. Shashank Mishra (2016-present) </p>
+							<p><b>Vice President:</b> Mr. Vishal Singh (2016-present)</p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-paint-brush" aria-hidden="true"></i>
+										<!--<i class="fa fa-pencil-square-o" aria-hidden="true"></i>--></div>
+									<h6><a href="#" class="tran3s">Abhilaasa</a></h6>
+								</div>
+								<p>Lorem ipsum dolor sit amet, consectetur scing elit, sed do eiusmod, tempor incididunt labore et dolore magna aliqua. Ut enim ad minim ut veniam, quis nostrud exercitation ullamco aliquip ex ea commodo consequat. </p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-line-chart" aria-hidden="true"></i></div>
+									<h6><a href="#" class="tran3s">E-cell</a></h6>
+								</div>
+								<p>Lorem ipsum dolor sit amet, consectetur scing elit, sed do eiusmod, tempor incididunt labore et dolore magna aliqua. Ut enim ad minim ut veniam, quis nostrud exercitation ullamco aliquip ex ea commodo consequat. </p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-life-ring" aria-hidden="true"></i></div>
+									<h6><a href="#" class="tran3s">Dance Society</a></h6>
+								</div>
+								<p>Lorem ipsum dolor sit amet, consectetur scing elit, sed do eiusmod, tempor incididunt labore et dolore magna aliqua. Ut enim ad minim ut veniam, quis nostrud exercitation ullamco aliquip ex ea commodo consequat. </p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+
+						<div class="col-lg-4 col-md-4 col-sm-6">
+							<div class="single-service-content">
+								<div class="icon-heading tran3s">
+									<div class="icon tran3s"><i class="fa fa-anchor" aria-hidden="true"></i></div>
+									<h6><a href="#" class="tran3s">ABU ROBOCON INDIA</a></h6>
+								</div>
+								<p>The students of GBPEC participate in the Asia-Pacific Robot Contest (ABU Robocon) which is an Asian Oceanian College robot competition, founded in 2002 by Asia-Pacific Broadcasting Union. </p>
+							</div> <!-- /.single-service-content -->
+						</div> <!-- /.col-lg -->
+					</div> <!-- /.row -->
+				</div> <!-- /.container -->
+			</div> <!-- /#service-section -->
+
+
+
+
+
+
+
+
+
+
+
+	<!--
+			=====================================================
+				Pricing Section
+			=====================================================
+			-->
+			<div id="pricing-section">
+				<div class="container">
+					<div class="clear-fix">
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+							<div class="single-price-table hvr-float-shadow">
+								<h4>Technical</h4>
+								<p>The best to start</p>
+								<strong class="color1">Free <span>Entry</span></strong>
+								<ul>
+									<li>Alphabit</li>
+									<li>Robotics</li>
+									<li>car designing</li>
+									<li>Codeattack</li>
+									<li>24/7 Support</li>
+								</ul>
+								<a href="#" class="tran3s p-color-bg">Lets Start</a>
+							</div> <!-- /.single-price-table -->
+						</div> <!-- /.col -->
+
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+							<div class="single-price-table hvr-float-shadow">
+								<h4>Sports</h4>
+								<p>The best to start</p>
+								<strong class="color2">Free <span>Entry</span></strong>
+								<ul>
+									<li>Basketball</li>
+									<li>Futshal</li>
+									<li>badminton</li>
+									<li>Cricket</li>
+									<li>Table Tennis</li>
+								</ul>
+								<a href="#" class="tran3s p-color-bg">Lets Start</a>
+							</div> <!-- /.single-price-table -->
+						</div> <!-- /.col -->
+
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+							<div class="single-price-table hvr-float-shadow">
+								<h4>Extracurricular</h4>
+								<p>The best to start</p>
+								<strong class="color3">Free <span>Entry</span></strong>
+								<ul>
+									<li>Abhilaasa</li>
+									<li>Buniyaad</li>
+									<li>Singing Society</li>
+									<li>blank</li>
+									<li>Dance Society</li>
+								</ul>
+								<a href="#" class="tran3s p-color-bg">Lets Start</a>
+							</div> <!-- /.single-price-table -->
+						</div> <!-- /.col -->
+					</div>
+				</div> <!-- /.container -->
+			</div> <!-- /#pricing-section -->
+
+
+
+
+
+
+
+
+<!-- Footer -->
+<footer class="bg1">
+	<div class="container p-t-40 p-b-70">
+		<div class="row">
+			<div class="col-sm-6 col-md-4 p-t-50">
+				<!-- - -->
+				<h4 class="txt13 m-b-33">
+					Contact Us
+				</h4>
+
+				<ul class="m-b-70">
+					<li class="txt14 m-b-14">
+						<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
+						G B Pant Government Engineering College 110020 - New Delhi
+					</li>
+
+					<li class="txt14 m-b-14">
+						<i class="fa fa-phone fs-16 dis-inline-block size19" aria-hidden="true"></i>
+						+91-11-26382314 
+					</li>
+<br>
+					<li class="txt14 m-b-14">
+						<i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
+						principal@gbpec.edu.in
+					</li>
+				</ul>
+
+				<!-- - -->
+				<h4 class="txt13 m-b-32">
+					Opening Times
+				</h4>
+
+				<ul>
+					<li class="txt14">
+						09:30 AM – 5:00 PM
+					</li>
+
+					<li class="txt14">
+					Working Days
+					</li>
+				</ul>
+			</div>
+
+			<div class="col-sm-6 col-md-4 p-t-50">
+				<!-- - -->
+				<h4 class="txt13 m-b-33">
+					Useful Links
+				</h4>
+
+				<div class="m-b-25">
+			<!--		<span class="fs-13 color2 m-r-5">
+						<i class="fa fa-twitter" aria-hidden="true"></i>
+					</span>-->
+					<a href="#" class="txt15">
+						Anti Ragging Notification-UGC 
+					</a>
+					<a href="#" class="txt15">
+						Online Anti Ragging Affidavit 
+					</a>
+					<a href="#" class="txt15">
+						Online Anti Ragging Complain 
+					</a>
+					<a href="#" class="txt15">
+						UGC Scholarships and Fellowships 
+					</a><br>
+					<a href="#" class="txt15">
+						Educational Loan 
+					</a>
+					<a href="#" class="txt15">
+						Guru Gobind Singh Indraprastha University 
+	
+				</div>
+			</div>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<div class="col-sm-6 col-md-4 p-t-50">
+				<!-- - -->
+				<h4 class="txt13 m-b-38">
+					Gallery
+				</h4>
+
+				<!-- Gallery footer -->
+				<div class="wrap-gallery-footer flex-w">
+					
+					
+					
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-02.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/5.jpg" alt="GALLERY">
+					</a>
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-03.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/4.jpg" alt="GALLERY">
+					</a>
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-02.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/5.jpg" alt="GALLERY">
+					</a>
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-03.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/4.jpg" alt="GALLERY">
+					</a>
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-02.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/5.jpg" alt="GALLERY">
+					</a>
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-03.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/4.jpg" alt="GALLERY">
+					</a>
+
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-02.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/5.jpg" alt="GALLERY">
+					</a>
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-03.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/4.jpg" alt="GALLERY">
+					</a>
+
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-02.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/5.jpg" alt="GALLERY">
+					</a>
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-03.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/4.jpg" alt="GALLERY">
+					</a>
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-02.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/5.jpg" alt="GALLERY">
+					</a>
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-03.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/4.jpg" alt="GALLERY">
+					</a>
+
+					<a class="item-gallery-footer wrap-pic-w" href="images/photo-gallery-02.jpg" data-lightbox="gallery-footer">
+						<img src="images/blog/5.jpg" alt="GALLERY">
+					</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+
+		
+
+
+
+
+
+
+
+	<div class="end-footer bg2">
+		<div class="container">
+			<div class="flex-sb-m flex-w p-t-22 p-b-22">
+			<!--	<div class="p-t-5 p-b-5">
+					<a href="#" class="fs-15 c-white"><i class="fa fa-tripadvisor" aria-hidden="true"></i></a>
+					<a href="#" class="fs-15 c-white"><i class="fa fa-facebook m-l-18" aria-hidden="true"></i></a>
+					<a href="#" class="fs-15 c-white"><i class="fa fa-twitter m-l-18" aria-hidden="true"></i></a>
+				</div>
+
+				<div class="txt17 p-r-20 p-t-5 p-b-5">
+					Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+				</div>-->
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			<!-- =============================================
+				Loading Transition
+			============================================== -->
+			<div id="loader-wrapper">
+				<div id="preloader_1">
+	                <span></span>
+	                <span></span>
+	                <span></span>
+	                <span></span>
+	                <span></span>
+	            </div>
+			</div>
+
+			
+	        <!-- Scroll Top Button -->
+			<button class="scroll-top tran3s p-color-bg">
+				<i class="fa fa-long-arrow-up" aria-hidden="true"></i>
+			</button>
+
+
+
+
+		<!-- Js File_________________________________ -->
+
+		<!-- j Query -->
+		<script type="text/javascript" src="vendor/jquery.2.2.3.min.js"></script>
+
+		<!-- Bootstrap JS -->
+		<script type="text/javascript" src="vendor/bootstrap/bootstrap.min.js"></script>
+
+		<!-- Vendor js _________ -->
+		
+		<!-- revolution -->
+		<script src="vendor/revolution/jquery.themepunch.tools.min.js"></script>
+		<script src="vendor/revolution/jquery.themepunch.revolution.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.slideanims.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.layeranimation.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.navigation.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.kenburn.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.actions.min.js"></script>
+		<script type="text/javascript" src="vendor/revolution/revolution.extension.video.min.js"></script>
+
+		<!-- Google map js -->
+		<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ8VrXgGZ3QSC-0XubNhuB2uKKCwqVaD0&callback=goMap" type="text/javascript"></script> <!-- Gmap Helper -->
+		<script src="vendor/gmaps.min.js"></script>
+		<!-- owl.carousel -->
+		<script type="text/javascript" src="vendor/owl-carousel/owl.carousel.min.js"></script>
+		<!-- mixitUp -->
+		<script type="text/javascript" src="vendor/jquery.mixitup.min.js"></script>
+		<!-- Progress Bar js -->
+		<script type="text/javascript" src="vendor/skills-master/jquery.skills.js"></script>
+		<!-- Validation -->
+		<script type="text/javascript" src="vendor/contact-form/validate.js"></script>
+		<script type="text/javascript" src="vendor/contact-form/jquery.form.js"></script>
+
+
+		<!-- Theme js -->
+		<script type="text/javascript" src="js/theme.js"></script>
+		<script type="text/javascript" src="js/map-script.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</html>
