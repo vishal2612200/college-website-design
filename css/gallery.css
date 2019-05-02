@@ -1,0 +1,33 @@
+.gallerycontainer{
+    margin: 0 auto;
+}
+
+
+.gallerycontainer .gallery a img {
+  float: left;
+  width: 20%;
+  height: auto;
+  border: 2px solid #fff;
+  -webkit-transition: -webkit-transform .15s ease;
+  -moz-transition: -moz-transform .15s ease;
+  -o-transition: -o-transform .15s ease;
+  -ms-transition: -ms-transform .15s ease;
+  transition: transform .15s ease;
+  position: relative;
+  display: block;
+}
+
+.gallerycontainer .gallery a:hover img {
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  transform: scale(1.05);
+  z-index: 5;
+}
+
+.clear {
+  clear: both;
+  float: none;
+  width: 100%;
+}
