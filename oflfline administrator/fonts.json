@@ -1,0 +1,225 @@
+[
+    {
+        "name": "font-awesome",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "revicons",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "glyphicons",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "fonts",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "scss",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "css",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "less",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "HELP-US-OUT.txt",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "fontawesome-webfont.svg",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "fontawesome-webfont.woff",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "fontawesome-webfont.eot",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "fontawesome-webfont.woff2",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "FontAwesome.otf",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "fontawesome-webfont.ttf",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_core.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "font-awesome.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_bordered-pulled.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_list.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_mixins.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_rotated-flipped.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_variables.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_stacked.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_larger.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_path.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_animated.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_fixed-width.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_icons.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "_screen-reader.scss",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "font-awesome.min.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "font-awesome.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "list.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "screen-reader.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "larger.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "rotated-flipped.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "variables.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "fixed-width.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "font-awesome.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "path.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "animated.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "icons.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "bordered-pulled.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "mixins.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "core.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "stacked.less",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revicons.woff",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revicons.ttf",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "index.php",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revicons.svg",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revicons.eot",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "glyphicons-halflings-regular.svg",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "glyphicons-halflings-regular.woff2",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "glyphicons-halflings-regular.ttf",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "glyphicons-halflings-regular.woff",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "glyphicons-halflings-regular.eot",
+        "date": "Sat Oct 20 20:32:40 2018"
+    }
+]

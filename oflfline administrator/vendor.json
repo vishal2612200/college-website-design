@@ -1,0 +1,251 @@
+[
+    {
+        "name": "revolution",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "owl-carousel",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "WOW-master",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "bootstrap",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "fancy-box",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "skills-master",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "monthly-master",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "contact-form",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "gmaps.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "jquery.2.2.3.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "html5shiv.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "hover.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "jquery.mixitup.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "respond.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "layers.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "navigation.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revolution.extension.slideanims.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revolution.extension.video.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revolution.extension.kenburn.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revolution.extension.layeranimation.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revolution.extension.navigation.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "revolution.extension.actions.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "jquery.themepunch.tools.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "jquery.themepunch.revolution.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "settings.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "owl.carousel.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "owl.theme.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "owl.carousel.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "css",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "libs",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "site.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "animate.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "bootstrap.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "bootstrap-theme.min.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "bootstrap.min.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "bootstrap.min.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "bootstrap.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "bootstrap-theme.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "bootstrap-theme.css.map",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "bootstrap.css.map",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "fancybox_loading.gif",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "jquery.fancybox.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "jquery.fancybox-media.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "fancybox_overlay.png",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "fancybox_sprite.png",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "jquery.fancybox.pack.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "source",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "jquery.skills.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "README.md",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "test_page.html",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "animate.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "habilidades.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "css",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "js",
+        "date": "Sat Oct 20 20:32:40 2018",
+        "DIR": "true"
+    },
+    {
+        "name": "monthly.css",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "jquery.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "monthly.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "jquery.form.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    },
+    {
+        "name": "validate.js",
+        "date": "Sat Oct 20 20:32:40 2018"
+    }
+]
